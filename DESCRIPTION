@@ -1,0 +1,11 @@
+Package: Bmi510FinalPackage
+Type: Package
+Title: Bmi510 Final Functions
+Version: 0.1.0
+Author: Zheyuan Zhang
+Maintainer: The package maintainer <zheyuan.zhang@emory.edu>
+Description: Some statistical functions used for bmi510 final.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
